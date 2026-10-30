@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712091420372",
+    "project_id": "derbriefkasten-8d42f",
+    "storage_bucket": "derbriefkasten-8d42f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712091420372:android:da502449dfb8f20fd89d41",
+        "android_client_info": {
+          "package_name": "com.servet.evrak_kutusu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712091420372-6u2lkgv1npj5j1q7n109uf04tk4gt411.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3oDM2LxjToOfsPxVyeGaLVZjAFA7s6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712091420372-6u2lkgv1npj5j1q7n109uf04tk4gt411.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
